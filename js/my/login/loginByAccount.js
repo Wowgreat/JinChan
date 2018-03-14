@@ -3,10 +3,11 @@ import {Platform,StyleSheet,View,Dimensions} from 'react-native';
 import { Container, Content, Item, Input, Button,Icon ,Text} from 'native-base';
 
 import { connect } from 'react-redux';
+
 import *as Action from '../../action';
+import CommonFunc from '../../common/func';
 
 const WindowWidth = Dimensions.get('window').width;
-
 class LoginByAccount extends Component {
   login = () => {
     this.props.loginAction(123)

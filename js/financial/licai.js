@@ -137,7 +137,7 @@ export default class LicaiPage extends Component<{}> {
                selectedValue={this.state.selected1}
                onValueChange={this.onValueChange.bind(this)}
              >
-               <Item label="请选择" value="key0" />
+               <Item label="请选择排行类型" value="key0" />
                <Item label="热销排行" value="key1" />
                <Item label="安全排行" value="key2" />
                <Item label="Credit Card" value="key3" />
