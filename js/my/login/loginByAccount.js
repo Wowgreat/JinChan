@@ -3,7 +3,7 @@ import {Platform,StyleSheet,View,Dimensions} from 'react-native';
 import { Container, Content, Item, Input, Button,Icon ,Text} from 'native-base';
 
 import { connect } from 'react-redux';
-import *as Action from '../action';
+import *as Action from '../../action';
 
 const WindowWidth = Dimensions.get('window').width;
 
