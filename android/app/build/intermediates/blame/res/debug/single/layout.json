@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -14,6 +14,10 @@
     {
         "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jcore-react-native/unspecified/res/layout/jpush_webview_layout.xml"
     },
     {
         "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -74,6 +78,10 @@
     {
         "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jcore-react-native/unspecified/res/layout/jpush_popwin_layout.xml"
     },
     {
         "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		ldZAPMZsVlx+3qyU+4bMwPOni5Q=
+		NOUXhNpSjdjk4Zbq4f4r18SHZgw=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zMtd66QewQz440t1UjBlq2+jC3w=
+		LnVs/P+FH6wO0jbRMd42YGdVPmw=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -99,19 +99,19 @@
 		</data>
 		<key>PlugIns/JinChanTests.xctest.dSYM/Contents/Resources/DWARF/JinChanTests</key>
 		<data>
-		bOkiVDMLTDDzDDMsePqggdJepp4=
+		Dig0PyELfxtG8eLwZNb6hc8LIME=
 		</data>
 		<key>PlugIns/JinChanTests.xctest/Info.plist</key>
 		<data>
-		aH2eAD+bNyX2suG03tH5FxchES8=
+		oKFV2cdWULb0TV4pfMe/L0LtIAA=
 		</data>
 		<key>PlugIns/JinChanTests.xctest/JinChanTests</key>
 		<data>
-		EooJ9vAXdIsW6QQrPZDyMSId+34=
+		oCQcjEBNwX9gq9g/H7SqmC9/4CQ=
 		</data>
 		<key>PlugIns/JinChanTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		3aX+kI539XjVx8QB8/XT2GnBxO4=
+		Ynkuu6pRqb1cF3wN3Wcm+LpZRHQ=
 		</data>
 		<key>Roboto.ttf</key>
 		<data>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ldZAPMZsVlx+3qyU+4bMwPOni5Q=
+			NOUXhNpSjdjk4Zbq4f4r18SHZgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			2qGaeP5sRmK4S7W0lR2fbEzw5Dei5EZxphyIWWZffj4=
+			zhVaOJo0R8RFpy+C8iH+cDL3vQLMdWgPXOItW+WPH7A=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -362,44 +362,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bOkiVDMLTDDzDDMsePqggdJepp4=
+			Dig0PyELfxtG8eLwZNb6hc8LIME=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrjHI4aSH39a0mjLjAvWY/wu7tGfAPuqIVyD79xXJnQ=
+			ZxZnHbUo02rdghYvimtC3eQTIMRrJF2Fdxgll/wn/Qo=
 			</data>
 		</dict>
 		<key>PlugIns/JinChanTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aH2eAD+bNyX2suG03tH5FxchES8=
+			oKFV2cdWULb0TV4pfMe/L0LtIAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5P4U0MKjbNKZVwJKcFN5WeI26CL4iIw0iFxhd+voluQ=
+			2EFi2q1Dk+Oe6UDcqYZGLEXRJInbKojRlVK9vZVfUTU=
 			</data>
 		</dict>
 		<key>PlugIns/JinChanTests.xctest/JinChanTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EooJ9vAXdIsW6QQrPZDyMSId+34=
+			oCQcjEBNwX9gq9g/H7SqmC9/4CQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KOu8mpxX6m1VB2H5ROWKxqCKTdOHCaqnQ6LYwGkAv44=
+			ivGBGVLMNCi4b8kH8TNvn+2RzzbzyAqQQcGKBbadelM=
 			</data>
 		</dict>
 		<key>PlugIns/JinChanTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3aX+kI539XjVx8QB8/XT2GnBxO4=
+			Ynkuu6pRqb1cF3wN3Wcm+LpZRHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bd/fZhF88xJoh9wYDtmLwHsuthylKvosV4zP90sDi6M=
+			N0yc3MT6CMtVPhKBZ80Xy9N+35ceKKtJY18xBZmo060=
 			</data>
 		</dict>
 		<key>Roboto.ttf</key>

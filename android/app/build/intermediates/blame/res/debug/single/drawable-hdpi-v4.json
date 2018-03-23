@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_richpush_progressbar.xml",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jcore-react-native/unspecified/res/drawable-hdpi-v4/jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_richpush_btn_selector.xml",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jcore-react-native/unspecified/res/drawable-hdpi-v4/jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_ic_richpush_actionbar_divider.png",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jcore-react-native/unspecified/res/drawable-hdpi-v4/jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jpush-react-native/unspecified/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ccdaguo/JinChan/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_ic_richpush_actionbar_back.png",
+        "source": "/Users/ccdaguo/JinChan/android/app/build/intermediates/exploded-aar/JinChan/jcore-react-native/unspecified/res/drawable-hdpi-v4/jpush_ic_richpush_actionbar_back.png"
+    }
+]

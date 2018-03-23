@@ -10,6 +10,7 @@ import FinancialScreen from './js/financial/index';
 import LoginScreen from './js/my/login';
 import VerifyScreen from './js/my/verified';
 import MyRecordingScreen from './js/my/MyRecording';
+import MyInfoPage from './js/my/myinfo';
 
 
 const App = StackNavigator({
@@ -17,7 +18,8 @@ const App = StackNavigator({
   Financial:{screen:FinancialScreen},
   Login:{screen:LoginScreen},
   Verify:{screen:VerifyScreen},
-  MyRecording:{screen:MyRecordingScreen}
+  MyRecording:{screen:MyRecordingScreen},
+  MyInfo:{screen:MyInfoPage}
 },
 {
   initialRouteName: "Home",

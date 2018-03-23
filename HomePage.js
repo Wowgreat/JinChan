@@ -18,7 +18,7 @@ export default class HomePage extends Component<{}> {
     const { navigate } = this.props.navigation;
     return (
       <Container>
-        <Tabs initialPage={0} tabBarPosition="bottom">
+        <Tabs initialPage={3} tabBarPosition="bottom">
           <Tab heading={ <TabHeading><Icon name="ios-home" size={20} color="#000" /><Text>首页</Text></TabHeading>}>
             <IndexPage navigation={navigate}/>{/*将navigate对象传递给子页面*/}
           </Tab>
